@@ -281,14 +281,19 @@ label{
 }
 .links{
     display:grid;
-    grid-template-columns: repeat(2, 1fr)
+    grid-template-columns: repeat(3, 1fr)
   
 }
   .my-story p{
-    font-size: 10px;
+    font-size: 15px;
     display:flex;
     text-align:center;
 }
+  .intro-text{
+    font-size:15px;
+    display:flex;
+    text-align:bottom;
+  }
 }
 @media screen and (min-width: 601px) and (max-width: 567px){
   .headshot{
