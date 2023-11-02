@@ -270,3 +270,22 @@ label{
 .projects{
   background: linear-gradient(to bottom right, rgb(38,35,37), rgb(42,43,44), rgb(43,44,44), rgb(56,40,33), rgb(90,55,41),rgb(151,83,43), rgb(116,103,105), rgb(158,115,119), rgb(174,110,93), rgb(221,117,27), rgb(203,130,80), rgb(176,147,158), rgb(197,186,199), rgb(201,190,202), rgb(234,213,157));
 }
+@media screen and (min-width: 200px) and (max-width: 568px){
+    .grid-container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+
+    }
+}
+@media screen and (min-width: 601px) and (max-width: 567px){
+    .grid-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .usb-logo{
+        display: none;
+    }
+}
