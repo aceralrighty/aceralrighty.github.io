@@ -279,6 +279,9 @@ label{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+.links{
+    display: none;
+  
 }
 @media screen and (min-width: 601px) and (max-width: 567px){
   .headshot{
