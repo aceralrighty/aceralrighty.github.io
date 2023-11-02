@@ -292,6 +292,11 @@ label{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
+  .my-story{
+    font-size: 5px;
+    display:flex;
+    text-align:center;
+}
 }
 
 @media screen and (max-width: 600px) {
