@@ -281,7 +281,8 @@ label{
 }
 .links{
     display:grid;
-    grid-template-columns: repeat(3, 1fr)
+    grid-template-columns: repeat(2, 1fr)
+    border: 1px solid white;
   
 }
   .my-story p{
@@ -297,7 +298,7 @@ label{
   .background{
     max-width: 500px;
   }
-  .contact-me{
+  .form-container{
     max-width:auto;
   }
 }
