@@ -294,6 +294,12 @@ label{
     display:flex;
     text-align:bottom;
   }
+  .background{
+    max-width: 500px;
+  }
+  .contact-me{
+    max-width:auto;
+  }
 }
 @media screen and (min-width: 601px) and (max-width: 567px){
   .headshot{
