@@ -283,6 +283,12 @@ label{
     display: none;
   
 }
+  .my-story p{
+    font-size: 10px;
+    display:flex;
+    text-align:center;
+}
+}
 @media screen and (min-width: 601px) and (max-width: 567px){
   .headshot{
       display: grid;
@@ -292,11 +298,7 @@ label{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
-  .my-story{
-    font-size: 5px;
-    display:flex;
-    text-align:center;
-}
+  
 }
 
 @media screen and (max-width: 600px) {
