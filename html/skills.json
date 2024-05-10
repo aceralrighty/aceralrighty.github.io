@@ -1,0 +1,98 @@
+{
+  "skills": [
+    {
+      "skillId": 1,
+      "skill": "Python"
+    },
+    {
+      "skillId": 2,
+      "skill": "Java"
+    },
+    {
+      "skillId": 3,
+      "skill": "JavaScript"
+    },
+    {
+      "skillId": 4,
+      "skill": "HTML"
+    },
+    {
+      "skillId": 5,
+      "skill": "CSS"
+    },
+    {
+      "skillId": 6,
+      "skill": "TailwindCSS"
+    },
+    {
+      "skillId": 7,
+      "skill": "C#"
+    },
+    {
+      "skillId": 8,
+      "skill": "COBOL"
+    }
+  ],
+  "applications": [
+    {
+      "applicationId": 1,
+      "application": "PyCharm"
+    },
+    {
+      "applicationId": 2,
+      "application": "Oracle Apex"
+    },
+    {
+      "applicationId": 3,
+      "application": "MySQL Workbench"
+    },
+    {
+      "applicationId": 4,
+      "application": "Visual Studio Code"
+    },
+    {
+      "applicationId": 5,
+      "application": "Android Studio"
+    },
+    {
+      "applicationId": 6,
+      "application": "GitHub"
+    },
+    {
+      "applicationId": 7,
+      "application": "Microsoft Suite"
+    },
+    {
+      "applicationId": 8,
+      "application": "Azure"
+    },
+    {
+      "applicationId": 9,
+      "application": "AWS"
+    },
+    {
+      "applicationId": 10,
+      "application": "Davinci Resolve"
+    },
+    {
+      "applicationId": 11,
+      "application": "Final Draft"
+    },
+    {
+      "applicationId": 12,
+      "application": "XCode"
+    },
+    {
+      "applicationId": 13,
+      "application": "ReactJS"
+    },
+    {
+      "applicationId": 14,
+      "application": "NextJS"
+    },
+    {
+      "applicationId": 15,
+      "application": ".NET"
+    }
+  ]
+}
